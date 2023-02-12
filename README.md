@@ -1,6 +1,6 @@
 # CMPSC 310 Activity 7: Classification
 
-## Deadline: February 3 by 10:20am
+## Deadline: February 13 by 10:20am
 
 ## Assignment
 
